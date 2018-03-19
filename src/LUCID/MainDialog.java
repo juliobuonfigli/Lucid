@@ -297,9 +297,7 @@ private boolean flag=false;
     cSRec=new JTextField("0");
     cSRec.setBounds(500, 670, 30, 20);
     add(cSRec); 
-     
-       
-    
+         
     //guion
     eGuion=new JLabel("GUION: ");
     eGuion.setBounds(640, 40, 80, 10);
